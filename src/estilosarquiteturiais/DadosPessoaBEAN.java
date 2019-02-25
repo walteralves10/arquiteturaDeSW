@@ -1,5 +1,13 @@
 package estilosarquiteturiais;
 
+/*
+    Arquitetura baseada em Componentes;
+    Orienteado a objetos
+    Arquitetura de eventos
+*/
+
+
+
 public class DadosPessoaBEAN {
     
     private int id;
