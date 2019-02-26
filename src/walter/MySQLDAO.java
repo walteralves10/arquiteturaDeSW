@@ -1,4 +1,4 @@
-package estilosarquiteturiais;
+package walter;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

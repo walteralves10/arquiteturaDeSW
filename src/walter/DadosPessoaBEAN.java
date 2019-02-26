@@ -1,9 +1,9 @@
-package estilosarquiteturiais;
+package walter;
 
 /*
-    Arquitetura baseada em Componentes;
-    Orienteado a objetos
-    Arquitetura de eventos
+    Arquitetura baseada em Componentes - componentes separados por classes, como por exemplo cada classe tem um conjunto de informações que forma um componente especifico, tendo comuicação entre eles.
+    Arquitetura Orienteado a objetos _ esta utilizando em todo o codigo, como um padrao de utilização de codificação
+    Persistencia de dados _ Utilizando banco de dados mysql como repositorio e conexao com o fonte.
 */
 
 
